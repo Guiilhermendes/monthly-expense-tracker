@@ -107,7 +107,3 @@ The goal is not only to generate code, but also to experiment with clear respons
 ## Project Status
 
 This is a functional prototype for study. The test script has not been configured yet (`npm test` is only a placeholder), so relevant changes should be checked manually through the API and interface until an automated test suite is added.
-
-## License
-
-This project does not currently define a distribution license.
